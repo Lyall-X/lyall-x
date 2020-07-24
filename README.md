@@ -1,6 +1,6 @@
 # Look here 👋
 
-![](https://github.com/AstralAngels/AstralAngels/master/icons/header_.png)
+![](https://github.com/AstralAngels/AstralAngels/blob/master/icons/header_.png)
 
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
