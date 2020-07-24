@@ -5,15 +5,15 @@
 
 I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 👨🏻‍💻 Game Enginer, ⚡ DevOps** for hobby and also **Game Indie Developer**. 🌈    
 
-* 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Senior Back End Engineer at Alibaba Group.
-* 🎓   Bachelor of Engineering in Computer Science and Engineering, GPA 3.82/4.0, TOP 3%.
-* 🌱   Currently learning Math & Philosophy.
-* 💬   Do read my resume here: [Resume](https://linkedin.com/in/half-frost)
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
+* 🧐   Interested in full stack. focus on backend and Game Enginer.
+* 💼   As backend Developer at XingDong.
+* 🎓   The technology stack is very, very broad.
+* 🌱   Currently learning Arithmetic & Go.
+* 💬   Speak something with me: [Speak](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
+* 📚   Gone from Game Enginer to backend developer.
+* 💻   With 3 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 2.26 million PV / 0.63 million UV).
+* ✍🏻   Open source many Game projects.
 
 <details>
   <summary>Some other facts about me-e-e</summary>
