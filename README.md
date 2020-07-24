@@ -15,9 +15,11 @@ I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 
 * 👯   Encouraging people for open source collaborations.
 * ✍🏻   Open source many Game projects.
 
-### Some of Interests:   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstralAngels&line_height=27" />
+### Some of Interests:    
+<p align="center">  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstralAngels&hide_langs_below=1&theme=default&line_height=27" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AstralAngels&show_icons=true&line_height=27" alt="AstralAngels's Github Stats" />
+</p>
   
 <hr>
 <p align="center">
