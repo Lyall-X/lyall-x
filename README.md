@@ -15,15 +15,9 @@ I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 
 * 👯   Encouraging people for open source collaborations.
 * ✍🏻   Open source many Game projects.
 
-### Some other Interests:   
-<p align="center">   
-<a href= "https://github.com/Programming-With-Love"><img src="https://github.com/AstralAngels/AstralAngels/blob/master/icons/yongaifadain.png" height="100" width="100"/></a>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&line_height=27" alt="halfrost's Github Stats" />
-</p>
-
-</details>
+### Some of Interests:   
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstralAngels&hide_langs_below=1&theme=default&line_height=27" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AstralAngels&show_icons=true&line_height=27" alt="AstralAngels's Github Stats" />
   
 <hr>
 <p align="center">
@@ -37,8 +31,8 @@ I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 
 </p>
 
 <p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AstralAngels.AstralAngels" alt="visitor badge"/>  
+<a title="Hits" target="_blank" href="https://github.com/AstralAngels/hits"><img src="https://hits.b3log.org/AstralAngels/hits.svg">     
 </p>
 
 </p>
