@@ -1,4 +1,5 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AstralAngels&show_icons=true)
+大佬:cow::beer:   
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AstralAngels&show_icons=true)   
 <a title="Hits" target="_blank" href="https://github.com/AstralAngels/hits"><img src="https://hits.b3log.org/AstralAngels/hits.svg"></a>
 
 我是一名励值成为全栈的后端工程狮，主要从事于游戏行业开发，技术不高，热爱开发，兴趣广泛，喜欢从零研究。就职过盛大，现在职于心动网络。主要涉猎：    
