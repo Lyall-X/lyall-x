@@ -15,9 +15,8 @@ I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 
 * 👯   Encouraging people for open source collaborations.
 * ✍🏻   Open source many Game projects.
 
-### Some other Interests:  
-<p align="center">
-
+### Some other Interests:   
+<p align="center">   
 <a href= "https://github.com/Programming-With-Love"><img src="https://github.com/AstralAngels/AstralAngels/blob/master/icons/yongaifadain.png" height="100" width="100"/></a>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27" />
