@@ -17,8 +17,8 @@ I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 
 
 ### Some of Interests:    
 <p align="center">  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstralAngels&hide_langs_below=1&theme=default&line_height=27" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AstralAngels&show_icons=true&line_height=27" alt="AstralAngels's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstralAngels&hide_langs_below=1&theme=default&line_height=27" />
 </p>
   
 <hr>
@@ -26,10 +26,10 @@ I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/half-frost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://github.com/AstralAngels/GameServer"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://github.com/AstralAngels/Dota2RPGDesign"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://github.com/AstralAngels"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
 <p  align="center">
