@@ -1,8 +1,9 @@
-# Look here 👋
+# Look here 👋   
+大佬:cow::beer:   
 
 ![](https://github.com/AstralAngels/AstralAngels/blob/master/icons/header_.png)
 
-I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 👨🏻‍💻 Game Enginer, ⚡ DevOps** for hobby and also **Game Indie Developer**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 💼   Senior Back End Engineer at Alibaba Group.
@@ -19,7 +20,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
   <br>
 
 * 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
+* 🍎   Apple Developer. 
 
 <p align="center">
 <a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
