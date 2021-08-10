@@ -17,8 +17,8 @@ I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 
 
 ### Some of Interests:    
 <p align="center">  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyall-X&show_icons=true&line_height=27" alt="Lyall-X's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyall-X&hide_langs_below=1&theme=default&line_height=27" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyall-X&show_icons=true&line_height=27&theme=dark" alt="Lyall-X's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyall-X&hide_langs_below=1&theme=dark&line_height=27" />
 </p>
   
 <hr>
