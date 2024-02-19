@@ -7,7 +7,7 @@ I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 
 * 💼   As backend Developer at XingDong.
 * 🔭   The technology stack is very, very broad.
 * 🌱   Currently learning Arithmetic & Go.
-* 📫   Speak something with me: [Speak](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)
+* 📫   Speak something with me: [Speak](https://www.linkedin.com/in/lyall-liu/) or [Email](lyall.liu@gmail.com)
 * 📚   Gone from Game Enginer to backend developer.
 * 💻   With 3 years' development working experience.
 * 👯   Encouraging people for open source collaborations.
