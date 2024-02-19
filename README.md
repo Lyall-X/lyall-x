@@ -1,6 +1,4 @@
-# Look here 👋   
-大佬:cow::beer:   
-
+# Look here 👋    
 ![](https://github.com/Lyall-X/Lyall-X/blob/master/icons/header_.png)
 
 I make elegantly professional **💻 Distributed Systems, 🌐 Server Architect 👨🏻‍💻 Game Enginer, ⚡ DevOps** for hobby and also **Game Indie Developer**. 🌈    
